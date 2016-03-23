@@ -1,0 +1,267 @@
+
+{% load staticfiles %}
+
+
+<body>
+    <div class="header">
+        <h2 class="heading">{{portfolio.portfolio_name}}</h2>
+        <div class="span2">
+            <div class="col-sm-4">
+            <a class="btn btn-info btn-block" href="{% url 'portfolio:show_list' %}">list portfolios</a>
+        </div>
+            <div class="col-sm-4">
+                <a class="btn btn-info btn-block view_dash_analysis"
+                 data-portfolio_id="{{portfolio.id}}"
+                 href="{% url 'analysis:beta_analysis' id=portfolio.id %}">
+                 Run analysis</a>
+             </div>
+             <div class="col-sm-4">
+            <a class="btn btn-info btn-block view_dash_compare"
+                 data-portfolio_id="{{portfolio.id}}"
+                href="{% url 'analysis:compare' id=portfolio.id %}">
+                Compare</a>
+            </div>
+        </div>
+        <br>
+        <br>
+       
+        <div class="asset-container"></div>  
+        
+        <!-- <div class="form-container-asset"></div> -->
+        <div class="form-container"></div>
+        <div class="securities-container"></div>
+
+
+    </div>
+    
+    <script id="asset-form-tmp" type="x-tmpl-mustache">
+    <div class="col-sm-6">
+        <form action="/securities/create" method="POST" id="add_asset">
+            {% csrf_token %}
+            <div class="form-group"> {{ form.AssetForm.as_p }} </div>
+            <input value="{{portfolio.id}}" id='portfolio_id' name='id_portfolio' hidden>
+             <input id='content-type' name='content_type' hidden>
+           <div class="form-group"> 
+                <select id="choice" name="choice_asset" class="form-control"> </select>
+           </div>
+            <input type="submit" class="form-control btn-danger">
+        </form>
+    </div>
+    </script>
+   
+    <script id="menu-tmp" type="x-tmpl-mustache">
+
+    {% verbatim %} 
+        {{{form}}}
+        
+                <button id='bt1' class="btn-info btn-lg">Stock</button>
+                <button id='bt2' class="btn-info btn-lg">Bond</button>
+                <button id='bt3' class="btn-info btn-lg">Exchange Traded Fund</button>
+        
+       
+        {% endverbatim %}
+    </script>
+
+
+
+    <script id="asset-tmp" type="x-tmpl-mustache">
+            {% verbatim %} 
+        
+                <table class="table">
+                        <tr>
+                                <th>Id Asset</th>
+                                <th></th>
+                                <th>Value</th>
+                                <th>Weight</th>
+                                <th>Quantity</th>
+                                <th>Cost Basis</th>
+                                <th><Type Asset/th>
+                                <th>Symbol Asset</th>
+                                <th>Delete </th>
+                                
+                        </tr>
+
+
+
+                    {{#asset}}
+                        <tr>
+                        
+                            <td>    {{id}}<td>
+
+                            <td>    ${{value}}</td>
+                            <td>    %{{weight}}</td>
+                             <td>   {{quantity}}</td>
+                            <td>    ${{cost_basis}}</td>
+                            <td>    {{content_type}}  </td>
+                            
+
+                            <td>    <a  role="button" class="btn btn-default" id ='asset-link' data-content_type="{{content_type}}" data-content_object="{{content_object.id}}" href=""> 
+                                {{content_object.symbol}} 
+                                </a>
+                                
+                            </td>
+                            <td>
+                                <a role="button" class="btn btn-danger" id='delete' data-id_asset="{{id}}" href="" > Delete from portfolio
+                                </a>
+                            </td>
+                            
+                        
+                            
+
+                        </tr>
+
+                    {{/asset}}
+                </table>
+
+                <div> 
+                                
+                                    <div class="asset-info"></div>
+                        
+
+             <div>
+
+                {{#portfolio_value}}
+               <p>  <h2> <strong> Total   value of your portfolio:  ${{.}} 
+               </h2></strong></p>
+                {{/portfolio_value}}
+
+            {% endverbatim %}   
+           
+           
+
+       
+            
+    </script>
+
+
+    <script id="stock-tmp" type="x-tmpl-mustache">
+            {% verbatim %} 
+        
+                    {{#stock}}
+                    <table class="table"  border="2">
+                        <tr>
+                                <th>Symbol</th>
+                                <th>Company Name</th>
+                                <th>Sector</th>
+                                <th>Industry</th>
+                                <th>Market Capitalisation</th>
+                        </tr>
+                        <tr>
+                           
+                                <td>    {{symbol}}</td>
+                                 <td>   {{company_name}}</td>
+                                <td>    {{sector}}</td>
+                                <td>    {{industry}}</td>
+                                <td>    {{market_capitalization}}</td>
+                            
+                        </tr>
+                        </table>
+                    {{/stock}}
+
+    
+       
+            {% endverbatim %}
+    </script>
+
+    <script id="bond-tmp" type="x-tmpl-mustache">
+
+            {% verbatim %} 
+        
+                <div>
+                    {{#bond}}
+                        <table class="table" border="2">
+                           <tr>
+                                <th>Symbol</th>
+                                <th>Company Name</th>
+                                <th>Coupon</th>
+                                <th>Maturity Date</th>
+                                <th>SP Rating</th>
+                                <th>Moody Rating</th>
+                           </tr>
+                           <tr>
+                                <td>    {{symbol}}</td>
+                                <td>    {{company_name}}</td>
+                                <td>    {{coupon}}</td>
+                                <td>    {{maturity_date}}</td>
+                                <td>    {{sp_rating}}</td>
+                                <td>    {{moody_rating}}</td>
+                            </tr>
+                        </table>
+                        
+                    {{/bond}}
+                </div>
+    
+       
+            {% endverbatim %}
+
+
+    </script>
+
+    <script id="etf-tmp" type="x-tmpl-mustache">
+
+            {% verbatim %} 
+        
+                <div>
+                    {{#etf}}
+                        <table class="table" border="2">
+                           <tr>
+                                <th>Symbol</th>
+                                <th>Company Name</th>
+                                <th>Category</th>
+                                <th>Category</th>
+                                <th>Fund Family</th>
+                                <th>Beta</th>
+                                <th>Alpha</th>
+                                <th>Sharpe Ratio</th>
+                           </tr>
+                           <tr>
+
+                                <td>        {{symbol}}</td>
+                                <td>        {{name}}</td>
+                                 <td>       {{category}}</td>
+                                 <td>       {{fund_family}}</td>
+                                 <td>       {{beta}}</td>
+                                 <td>       {{alpha}}</td>
+                                  <td>      {{r_squared}}</td>
+                                 <td>       {{sharpe_ratio}}</td>
+                            </tr>
+                        </table>
+                    {{/etf}}
+                </div>
+    
+       
+            {% endverbatim %}
+
+           
+    </script>
+
+    
+   
+
+
+
+
+   <!-- jQuery -->
+
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.1.135/jspdf.min.js"></script>
+        
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+
+    <script src="{% static 'portfolio/read.js' %}" type="application/javascript"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.4/d3.min.js"></script>
+        <script src="d3pie.min.js"></script>
+        <script src="{% static 'analysis/pie.js' %}" type="application/javascript"></script>
+
+
+</body>

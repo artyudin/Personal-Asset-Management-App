@@ -1,0 +1,27 @@
+<script id="list_template" type="x-tmpl-mustache">
+    
+        
+     <h3>This is your portfolio list:</h3>
+
+    {% verbatim %}
+              
+        <div  class="list-group portfolio_list">
+            {{#portfolios }}
+                            
+                <div  class="list-group-item">   
+
+                        <a class="btn btn-info view_dash_portfolio" data-portfolio_id="{{id}}" href="/portfolio/portfolio_detail/{{id}}"> {{ portfolio_name}}</a>
+                        <a class="btn btn-danger" href="/portfolio/delete/{{id}}">Delete</a>
+                        <a class="update_link btn btn-warning" id="{{id}}"
+                        href="/portfolio/update/{{id}}">update</a>
+              
+                </div>
+            {{/portfolios }}
+        
+        </div>
+                
+    {% endverbatim %}
+                    
+            
+    
+</script>

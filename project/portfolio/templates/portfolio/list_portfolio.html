@@ -1,0 +1,32 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portfolios</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"> 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"> 
+  <link href="carousel.css" rel="stylesheet">
+
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <h1>list Portfolios</h1>
+    <a href="{% url "portfolio:create" %}">Create New Portfolio </a>
+ 
+   
+            <div class="list_portfolios">
+        </div>
+        <div class="update_class_form">
+        </div>
+    <!-- jQuery -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+          <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js"></script>
+        <script src="{% static 'portfolio/portfolio.js' %}" type="application/javascript"></script>
+       
+        {%include 'portfolio/name_update.html' %}
+        {%include 'portfolio/template_portfolio_list.html' %}
+</body>
+</html>

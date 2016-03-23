@@ -1,0 +1,158 @@
+
+{% load myfilters %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE-edge"> 
+  <meta name="viewport" content='width=device-width, initial-scale=1'> 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"> 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"> 
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="/static/users/style.css">
+  <script src="js/script.js"></script>
+  <title>PAM</title>
+</head>
+
+  <body>
+    <!-- <div class="navbar-wrapper"> -->
+    <nav class="navbar navbar-inverse navbar-fixed-top ">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Personal Asset Manager</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li><a href="{% url 'users:create' %}">Register</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Financial planning <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Why plan</a></li>
+                <li><a href="#">Planning process</a></li>
+                <li><a href="#">Contact us</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">Create a free account</li>
+                <li><a href="{% url 'users:create' %}">Register</a></li>
+                <li><a href="#">Login</a></li>
+              </ul>
+            </li>
+          </ul>
+          <form class="navbar-form navbar-right" action="{% url action %}" method="{{method}}">
+          <!-- <div class="form-action form-group"> -->
+          	{% csrf_token %}
+          	             {% for field in form %}
+                	    <div class="form-group">
+                            {% addAttr field placeholder=field.name class="form-control" %}
+                        </div>
+                        {% endfor %}
+          <!-- </div> -->
+
+            <button type="submit" class="btn btn-warning">Sign in</button>
+          </form>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </nav>
+  <!-- </div> -->
+  <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img class="first-slide" src="/static/users/H.jpg" alt="First slide">
+      <div class="container">
+      <div class="carousel-caption">
+        <h1>What is Personal Asset Manager?</h1>
+        <p>Personal Wealth Management application, that is based on your risk tolerance and investment goals presents a model investment portfolio and compares it to your current investments</p>
+        <p><a id='s' class="btn btn-lg" href="{% url 'users:create' %}" role="button">Register to learn more</a></p>
+      </div>
+      </div>
+    </div>
+    <div class="item">
+      <img class="second-slide" src="/static/users/3.jpg" alt="Second slide">
+      <div class="container">
+      <div class="carousel-caption">
+        <h1>What is Personal Asset Manager?</h1>
+        <p>Personal Wealth Management application, that is based on your risk tolerance and investment goals presents a model investment portfolio and compares it to your current investments</p>
+        <p><a id='s' class="btn btn-lg" href="{% url 'users:create' %}" role="button">Register to learn more</a></p>
+      </div>
+      </div>
+    </div>
+    <div class="item">
+      <img class="third-slide" src="/static/users/01.jpg" alt="Third slide">
+      <div class="container">
+      <div class="carousel-caption">
+        <h1>10 steps to retire with more money with PAM</h1>
+        <p>Personal Wealth Management application, that is based on your risk tolerance and investment goals presents a model investment portfolio and compares it to your current investments</p>
+        <p><a id='s' class="btn btn-lg" href="{% url 'users:create' %}" role="button">Register to learn more</a></p>
+      </div>
+      </div>
+    </div>
+    </div>
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+    </a>
+  </div><!-- /.carousel -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <form action="{% url action %}" method="{{method}}">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <input type="submit" value="{{ submit_text }}">
+        </form>
+    </div>
+</body>
+</html> -->

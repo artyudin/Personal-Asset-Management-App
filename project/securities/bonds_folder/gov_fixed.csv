@@ -1,0 +1,899 @@
+Name,Ticker,Coupon,Maturity,Series,Maturity Type,Currency,Country
+United States Small Business Administration,GSBA,6.375,2/1/2016,96-B,CALL/SINK,USD,US
+#N/A Field Not Applicable,FHLB,6,2/12/2016,#N/A Field Not Applicable,NORMAL,USD,US
+Fannie Mae Interest Strip,FNMA,0,2/12/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.375,2/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.5,2/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,9.25,2/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,2/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.25,2/29/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.125,2/29/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.625,2/29/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.7,3/1/2016,96-C,CALL/SINK,USD,US
+#N/A Field Not Applicable,FHLMC,0,3/1/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FFCB,6.05,3/7/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,8.2,3/10/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.375,3/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,5,3/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FFCB,6.03,3/21/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,3/23/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.375,3/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.375,3/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.25,3/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.35,4/1/2016,96-D,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.125,4/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.25,4/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,5.25,4/18/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.375,4/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,4/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.625,4/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.6,5/1/2016,96-E,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,0.25,5/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,7.25,5/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,5.125,5/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,5.375,5/18/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.375,5/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,5/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.25,5/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,8.25,6/1/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,0,6/1/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.55,6/1/2016,96-F,CALL/SINK,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,7.625,6/1/2016,CR97,CALLABLE,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,7.625,6/1/2016,SI97,CALLABLE,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,3.5,6/1/2016,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Treasury Note/Bond,T,0.5,6/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.5,6/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.5,6/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.25,6/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHNT,7.45,7/1/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.7,7/1/2016,96-G,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,0.625,7/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,2.5,7/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,5.375,7/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,7/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,TVA,0,7/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,9,7/15/2016,94-A,CALLABLE,USD,US
+#N/A Field Not Applicable,FHLMC,5.5,7/18/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.5,7/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.5,7/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.25,7/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,0.83,8/1/2016,A,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,1.22,8/1/2016,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,5.48,8/1/2016,04-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,7.858,8/1/2016,00-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,6.36,8/1/2016,01-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.67,8/1/2016,02-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,4.48,8/1/2016,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,5.19,8/1/2016,03-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,2.66,8/1/2016,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Small Business Administration,GSBA,7.25,8/1/2016,96-H,CALL/SINK,USD,US
+United States Department of Housing and Urban Development,HUD,7.08,8/1/2016,97-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,6.59,8/1/2016,99-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.11,8/1/2016,0610,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,2.66,8/1/2016,1,AT MATURITY,USD,US
+#N/A Field Not Applicable,FNMA,0,8/7/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,8/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.875,8/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,8/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,8/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.5,8/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3,8/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.7,9/1/2016,96-I,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,0.875,9/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,5.25,9/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,0,9/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMS,0,9/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,9/23/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.5,9/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,9/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3,9/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.2,10/1/2016,96-J,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,10/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,5.125,10/18/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHNT,7.13,10/18/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHNT,7.19,10/24/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,10/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.375,10/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.125,10/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.95,11/1/2016,96-K,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,4.625,11/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,11/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,7.5,11/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,6.8,11/21/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,11/29/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.5,11/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,11/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.75,11/30/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,SLNT,8.44,12/1/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.7,12/1/2016,96-L,CALL/SINK,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,6,12/1/2016,#N/A Field Not Applicable,AT MATURITY,USD,US
+#N/A Field Not Applicable,FHLB,6.64,12/13/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,12/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,4.875,12/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,2.1,12/15/2016,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,TVA,4.875,12/15/2016,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,2.42,12/15/2016,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FHLB,4.75,12/16/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,12/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,12/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.25,12/31/2016,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.15,1/1/2017,97-A,CALL/SINK,USD,US
+#N/A Field Not Applicable,FMCNT,0,1/4/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.75,1/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,2.375,1/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,1/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.5,1/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.125,1/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.1,2/1/2017,97-B,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNMA,5,2/13/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,7.02,2/13/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,2/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.625,2/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,2/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,5,2/16/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.5,2/28/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,2/28/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3,2/28/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.15,3/1/2017,97-C,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,0.75,3/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMS,0,3/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.5,3/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,3/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.25,3/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.5,4/1/2017,97-D,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.125,4/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,4/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,5,4/18/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.5,4/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,4/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.125,4/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.3,5/1/2017,97-E,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNMA,5,5/11/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,5/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.5,5/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,8.75,5/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,4.875,5/17/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,5/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.75,5/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,6/1/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.2,6/1/2017,97-F,CALL/SINK,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,7.625,6/1/2017,CR97,CALLABLE,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,7.625,6/1/2017,SI97,CALLABLE,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,3.75,6/1/2017,#N/A Field Not Applicable,AT MATURITY,USD,US
+#N/A Field Not Applicable,FNMA,5.375,6/12/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,6/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,0.57,6/15/2017,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,0.57,6/15/2017,1,SINKABLE,USD,US
+United States Treasury Note/Bond,T,0.75,6/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,6/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.5,6/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.85,7/1/2017,20G,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,9.5,7/1/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,2.625,7/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,7/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,TVA,0,7/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,5,7/15/2017,#N/A Field Not Applicable,CALLABLE,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,9,7/15/2017,94-A,CALLABLE,USD,US
+United States Treasury Note/Bond,T,0.625,7/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.5,7/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.375,7/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,2.91,8/1/2017,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,7.908,8/1/2017,00-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.77,8/1/2017,02-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,1.54,8/1/2017,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,4.56,8/1/2017,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,5.29,8/1/2017,03-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,6.45,8/1/2017,01-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,0.93,8/1/2017,A,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,5.3,8/1/2017,0611,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,7.13,8/1/2017,97-A,CALLABLE,USD,US
+United States Small Business Administration,GSBA,6.8,8/1/2017,97-H,CALL/SINK,USD,US
+United States Department of Housing and Urban Development,HUD,6.66,8/1/2017,99-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.59,8/1/2017,04-A,CALLABLE,USD,US
+#N/A Field Not Applicable,FNMA,0,8/7/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,8/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,8.875,8/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.75,8/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,8/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,5.5,8/23/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,8/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.875,8/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.9,9/1/2017,97-I,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,1,9/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,9/23/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,9/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.875,9/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.55,10/1/2017,97-J,CALL/SINK,USD,US
+#N/A Field Not Applicable,FICO,10.7,10/6/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FICO,10.65,10/6/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,10/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.75,10/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.875,10/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.6,11/1/2017,97-K,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,0.875,11/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.25,11/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,5.375,11/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,11/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,5,11/17/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,5.125,11/17/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,11/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,11/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.25,11/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FICO,9.8,11/30/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,6.455,12/1/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.55,12/1/2017,97-L,CALL/SINK,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,6,12/1/2017,#N/A Field Not Applicable,AT MATURITY,USD,US
+#N/A Field Not Applicable,FHLB,6.37,12/4/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,12/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,0.9,12/15/2017,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,TVA,6.25,12/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,TVAP,0,12/15/2017,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,TVAPX,0,12/15/2017,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Treasury Note/Bond,T,1,12/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.75,12/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.75,12/31/2017,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.125,1/1/2018,98-A,CALL/SINK,USD,US
+#N/A Field Not Applicable,FMCNT,0,1/4/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,1/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,1.625,1/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,1/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.75,1/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,1/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.625,1/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+Fannie Mae Interest Strip,FNMA,0,2/1/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.15,2/1/2018,98-B,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNMA,0,2/7/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FICO,9.4,2/8/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,8.95,2/12/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMAP,0,2/12/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,2/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.5,2/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,2/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.75,2/28/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.75,2/28/2018,#N/A Field Not Applicable,NORMAL,USD,US
+Lower Brule Sioux Tribe,LWB,4.5,3/1/2018,A,SINKABLE,USD,US
+United States Small Business Administration,GSBA,6.35,3/1/2018,98-C,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,1,3/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNTX,0,3/23/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.75,3/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.875,3/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.15,4/1/2018,98-D,CALL/SINK,USD,US
+#N/A Field Not Applicable,FICO,9.8,4/6/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.125,4/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.75,4/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,6.18,4/17/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.625,4/30/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.625,4/30/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.3,5/1/2018,98-E,CALL/SINK,USD,US
+#N/A Field Not Applicable,TVA,0,5/1/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FICO,10,5/11/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,5/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.875,5/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,9.125,5/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,5/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.375,5/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.3,6/1/2018,98-F,CALL/SINK,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,7.625,6/1/2018,CR97,CALLABLE,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,7.625,6/1/2018,SI97,CALLABLE,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,4,6/1/2018,#N/A Field Not Applicable,AT MATURITY,USD,US
+#N/A Field Not Applicable,FNMA,4.6,6/5/2018,#N/A Field Not Applicable,CALLABLE,USD,US
+#N/A Field Not Applicable,FHLB,6.125,6/8/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,4.875,6/13/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.125,6/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,6.015,6/29/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,6/30/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.375,6/30/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.1,7/1/2018,98-G,CALL/SINK,USD,US
+United States Treasury Inflation Indexed Bonds,TII,1.375,7/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,7/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,9,7/15/2018,94-A,CALLABLE,USD,US
+United States Treasury Note/Bond,T,1.375,7/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.25,7/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,3.12,8/1/2018,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,4.62,8/1/2018,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,7.928,8/1/2018,00-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.38,8/1/2018,03-A,CALLABLE,USD,US
+Fannie Mae Interest Strip,FNMA,0,8/1/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,5.85,8/1/2018,02-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.38,8/1/2018,0612,CALLABLE,USD,US
+United States Small Business Administration,GSBA,6.15,8/1/2018,98-H,CALL/SINK,USD,US
+United States Department of Housing and Urban Development,HUD,6.51,8/1/2018,01-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,6.72,8/1/2018,99-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.68,8/1/2018,04-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,1.77,8/1/2018,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,1.33,8/1/2018,A,AT MATURITY,USD,US
+#N/A Field Not Applicable,FHLB,6.025,8/3/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FICO,10.35,8/3/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,8/7/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,8/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4,8/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,5.375,8/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,8/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,6.05,8/21/2018,#N/A Field Not Applicable,NORMAL,USD,US
+Fort Sill Apache Tribe of Oklahoma Economic Development Authority,FTSILL,8.5,8/25/2018,011B,SINKABLE,USD,US
+United States Treasury Note/Bond,T,1.5,8/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6,9/1/2018,98-I,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,1,9/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,5.685,9/17/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,9/23/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,9/30/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,5.5,10/1/2018,98-J,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,10/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.25,10/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,10/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,5.875,11/1/2018,98-K,CALL/SINK,USD,US
+#N/A Field Not Applicable,TVA,0,11/1/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FICO,9.65,11/2/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.25,11/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.75,11/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,9,11/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.25,11/30/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,11/30/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,SLNT,9.25,11/30/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,5.8,12/1/2018,98-L,CALL/SINK,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,6,12/1/2018,#N/A Field Not Applicable,AT MATURITY,USD,US
+#N/A Field Not Applicable,FICO,9.9,12/6/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,SLNT,8.41,12/14/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.25,12/15/2018,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FICO,9.6,12/27/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.5,12/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,12/31/2018,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,5.85,1/1/2019,99-A,CALL/SINK,USD,US
+#N/A Field Not Applicable,FHLMC,0,1/2/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FMCNT,0,1/4/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.125,1/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,2.125,1/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FFCB,4.85,1/28/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.25,1/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.5,1/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+Federal National Mortgage Association,FNMA,9,2/1/2019,#N/A Field Not Applicable,NORMAL,USD,US
+Fannie Mae Principal Strip,FNMA,0,2/1/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,5.95,2/1/2019,99-B,CALL/SINK,USD,US
+Fannie Mae Interest Strip,FNMAX,0,2/1/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,2/7/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.75,2/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,8.875,2/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,2/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,2/28/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.5,2/28/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.3,3/1/2019,99-C,CALL/SINK,USD,US
+#N/A Field Not Applicable,FICO,9.65,3/7/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.625,3/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.5,3/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.15,4/1/2019,99-D,CALL/SINK,USD,US
+#N/A Field Not Applicable,FHLB,6.1,4/5/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FICO,9.7,4/5/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.125,4/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,1.03,4/15/2019,#N/A Field Not Applicable,SINKABLE,USD,US
+United States Treasury Note/Bond,T,1.625,4/30/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.25,4/30/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.3,5/1/2019,99-E,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,3.125,5/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,5.375,5/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.5,5/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.125,5/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.8,6/1/2019,99-F,CALL/SINK,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,7.625,6/1/2019,CR97,CALLABLE,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,4.25,6/1/2019,#N/A Field Not Applicable,CALLABLE,USD,US
+#N/A Field Not Applicable,FHLB,6.535,6/3/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FICO,9,6/6/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FCNT,6.65,6/14/2019,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,1.3,6/15/2019,#N/A Field Not Applicable,SINKABLE,USD,US
+United States Treasury Note/Bond,T,1,6/30/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.625,6/30/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7,7/1/2019,99-G,CALL/SINK,USD,US
+United States Treasury Inflation Indexed Bonds,TII,1.875,7/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,7/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,9,7/15/2019,94-A,CALLABLE,USD,US
+#N/A Field Not Applicable,FNMA,5,7/29/2019,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Treasury Note/Bond,T,1.625,7/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,0.875,7/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,5.45,8/1/2019,0613,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.3,8/1/2019,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,2.05,8/1/2019,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,5.93,8/1/2019,02-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.46,8/1/2019,03-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,7.958,8/1/2019,00-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.76,8/1/2019,04-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,1.88,8/1/2019,A,AT MATURITY,USD,US
+United States Small Business Administration,GSBA,7.3,8/1/2019,99-H,CALL/SINK,USD,US
+United States Department of Housing and Urban Development,HUD,6.56,8/1/2019,01-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,4.87,8/1/2019,#N/A Field Not Applicable,CALLABLE,USD,US
+#N/A Field Not Applicable,FNMA,0,8/7/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,8.1,8/12/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.625,8/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,8.125,8/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,5.125,8/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,8/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,7,8/26/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.625,8/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,8/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+National Archives Facility Trust,NATARC,8.5,9/1/2019,#N/A Field Not Applicable,SINKABLE,USD,US
+United States Small Business Administration,GSBA,7.3,9/1/2019,99-I,CALL/SINK,USD,US
+#N/A Field Not Applicable,FHLMC,0,9/3/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,0,9/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,9/23/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FICO,8.6,9/26/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,9/30/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,9/30/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.2,10/1/2019,99-J,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2019,#N/A Field Not Applicable,NORMAL,USD,US
+Federal National Mortgage Association,FNMA,0,10/9/2019,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,RFCO,8.125,10/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.5,10/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.25,10/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.375,11/15/2019,#N/A Field Not Applicable,NORMAL,USD,US
+Federal Home Loan Mortgage Corp,FHLMC,0,11/29/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.5,11/30/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1,11/30/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.19,12/1/2019,20L,CALL/SINK,USD,US
+#N/A Field Not Applicable,FHLMC,0,12/2/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.625,12/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.125,12/31/2019,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.59,1/1/2020,20A,CALL/SINK,USD,US
+#N/A Field Not Applicable,FMCNT,0,1/4/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,1.375,1/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FFCB,4.875,1/27/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.25,1/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,1/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.73,2/1/2020,20A,CALL/SINK,USD,US
+#N/A Field Not Applicable,FHLB,7.45,2/3/2020,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,2/7/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.625,2/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,8.5,2/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,2/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,2/29/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.25,2/29/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.625,3/1/2020,00-C,CALL/SINK,USD,US
+#N/A Field Not Applicable,FHLMS,0,3/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,3/23/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,3/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.125,3/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.47,4/1/2020,20-D,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.125,4/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,4/30/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.125,4/30/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,8.03,5/1/2020,20E,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,3.5,5/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,8.75,5/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,7.5,5/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.5,5/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,5/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.63,6/1/2020,20-F,CALL/SINK,USD,US
+Colorado Affordable Catholic Housing Corp,COLOAF,4.5,6/1/2020,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Treasury Note/Bond,T,1.625,6/30/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.875,6/30/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.39,7/1/2020,20-G,CALL/SINK,USD,US
+United States Treasury Inflation Indexed Bonds,TII,1.25,7/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,RFCO,8.875,7/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.625,7/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,7/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,6.62,8/1/2020,01-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,1.98,8/1/2020,A,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,5.53,8/1/2020,03-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,6,8/1/2020,02-A,CALLABLE,USD,US
+United States Small Business Administration,GSBA,7.33,8/1/2020,20-H,CALL/SINK,USD,US
+United States Department of Housing and Urban Development,HUD,5.51,8/1/2020,0614,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.81,8/1/2020,04-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,4.96,8/1/2020,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.43,8/1/2020,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,2.45,8/1/2020,#N/A Field Not Applicable,AT MATURITY,USD,US
+#N/A Field Not Applicable,FNMA,0,8/7/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.625,8/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,8.75,8/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,8/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,8/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.125,8/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,7.21,9/1/2020,20-I,CALL/SINK,USD,US
+#N/A Field Not Applicable,FFCB,6.9,9/14/2020,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,9/23/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,9/30/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,9/30/2020,#N/A Field Not Applicable,NORMAL,USD,US
+Oglala Sioux Tribe,OGLFAC,7.55,10/1/2020,#N/A Field Not Applicable,CALL/SINK,USD,US
+United States Small Business Administration,GSBA,7.125,10/1/2020,20-J,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2020,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,RFCO,9.375,10/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,10/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,10/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.625,11/15/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.625,11/30/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,11/30/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.9,12/1/2020,20-L,CALL/SINK,USD,US
+#N/A Field Not Applicable,FFCB,4.9,12/28/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,12/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.375,12/31/2020,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.29,1/1/2021,20-A,CALL/SINK,USD,US
+#N/A Field Not Applicable,FMCNT,0,1/4/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,1.125,1/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,RFCO,8.625,1/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,1/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.375,1/31/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.125,1/31/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.44,2/1/2021,20-B,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNMA,0,2/7/2021,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,6,2/12/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.625,2/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,7.875,2/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,2/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,2/28/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.34,3/1/2021,20-C,CALL/SINK,USD,US
+#N/A Field Not Applicable,FHLMC,0,3/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,3/23/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.25,3/31/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.35,4/1/2021,20-D,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.25,4/30/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.34,5/1/2021,20-E,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,3.125,5/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,8.125,5/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,3.37,5/15/2021,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,2.07,5/15/2021,#N/A Field Not Applicable,SINKABLE,USD,US
+United States Treasury Note/Bond,T,2,5/31/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.44,6/1/2021,20-F,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,2.125,6/30/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.625,7/1/2021,20-G,CALL/SINK,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.625,7/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.25,7/31/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,2.35,8/1/2021,A,AT MATURITY,USD,US
+United States Small Business Administration,GSBA,6.34,8/1/2021,20-H,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,6.07,8/1/2021,02-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,2.56,8/1/2021,#N/A Field Not Applicable,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,5.05,8/1/2021,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.87,8/1/2021,04-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.59,8/1/2021,03-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.57,8/1/2021,0615,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.73,8/1/2021,#N/A Field Not Applicable,CALLABLE,USD,US
+#N/A Field Not Applicable,FNMA,0,8/7/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.125,8/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,8.125,8/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,8/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,8/31/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.12,9/1/2021,20-I,CALL/SINK,USD,US
+#N/A Field Not Applicable,FCNT,7.32,9/23/2021,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,9/23/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.125,9/30/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,5.76,10/1/2021,#N/A Field Not Applicable,CALLABLE,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,10/31/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,5.34,11/1/2021,#N/A Field Not Applicable,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,2,11/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,8,11/15/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.875,11/30/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,5.78,12/1/2021,#N/A Field Not Applicable,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,2.125,12/31/2021,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.14,1/1/2022,#N/A Field Not Applicable,CALL/SINK,USD,US
+#N/A Field Not Applicable,FMCNT,0,1/4/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.125,1/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.5,1/31/2022,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,2/7/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,2/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,2/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,2/28/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.07,3/1/2022,20C,CALL/SINK,USD,US
+Overseas Private Investment Corp,OPIC,4.62,3/15/2022,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,4.736,3/15/2022,05-1,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,4.73,3/15/2022,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,5.28,3/15/2022,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FNNT,0,3/23/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,3/31/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,6.41,4/1/2022,#N/A Field Not Applicable,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,4/30/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,5/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,5/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.875,5/31/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,5.8,6/1/2022,F,CALL/SINK,USD,US
+United States Treasury Note/Bond,T,2.125,6/30/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Small Business Administration,GSBA,5.66,7/1/2022,G,CALL/SINK,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.125,7/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,7/31/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,2.7,8/1/2022,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,2.45,8/1/2022,A,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,6.12,8/1/2022,02-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.13,8/1/2022,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.92,8/1/2022,04-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.64,8/1/2022,03-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.83,8/1/2022,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.62,8/1/2022,0616,CALLABLE,USD,US
+#N/A Field Not Applicable,FNMA,0,8/7/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.625,8/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,7.25,8/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,8/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.875,8/31/2022,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,2.52,9/15/2022,#N/A Field Not Applicable,CALL/SINK,USD,US
+Federal Home Loan Mortgage Corp,FMCNT,7.69,9/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,9/23/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,9/30/2022,#N/A Field Not Applicable,NORMAL,USD,US
+Oglala Sioux Tribe,OGLFAC,5,10/1/2022,2012,CALL/SINK,USD,US
+Navient Solutions Inc,SLMA,0,10/3/2022,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.875,10/31/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.625,11/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,7.625,11/15/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,11/30/2022,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.125,12/31/2022,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FMCNT,0,1/4/2023,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.125,1/15/2023,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,WBGB,7.625,1/19/2023,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,1/31/2023,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,2/7/2023,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,2/15/2023,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,7.125,2/15/2023,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,2/15/2023,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,3/23/2023,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2023,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,1.75,5/15/2023,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,4.98,6/22/2023,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.375,7/15/2023,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,5.19,8/1/2023,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.69,8/1/2023,03-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.97,8/1/2023,04-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,2.91,8/1/2023,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.66,8/1/2023,0617,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.93,8/1/2023,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,2.8,8/1/2023,A,AT MATURITY,USD,US
+#N/A Field Not Applicable,FNMA,0,8/7/2023,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.5,8/15/2023,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,6.25,8/15/2023,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,8/15/2023,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,9/23/2023,#N/A Field Not Applicable,NORMAL,USD,US
+Oglala Sioux Tribe,OGLFAC,8,10/1/2023,#N/A Field Not Applicable,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2023,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.75,11/15/2023,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,5.142,12/15/2023,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FMCNT,0,1/4/2024,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.625,1/15/2024,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,2/7/2024,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.75,2/15/2024,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,2/15/2024,#N/A Field Not Applicable,NORMAL,USD,US
+Lower Brule Sioux Tribe,LWB,6.625,3/1/2024,B,SINKABLE,USD,US
+#N/A Field Not Applicable,FNMA,0,3/23/2024,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2024,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.5,5/15/2024,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.125,7/15/2024,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,2.96,8/1/2024,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.25,8/1/2024,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,2.85,8/1/2024,A,AT MATURITY,USD,US
+United States Department of Housing and Urban Development,HUD,4.03,8/1/2024,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,6.01,8/1/2024,04-A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.7,8/1/2024,0618,CALLABLE,USD,US
+#N/A Field Not Applicable,FNMA,0,8/7/2024,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.375,8/15/2024,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,JUDIC,0,8/15/2024,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,5.375,8/15/2024,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,9/23/2024,#N/A Field Not Applicable,NORMAL,USD,US
+Oglala Sioux Tribe,OGLFAC,5.5,10/1/2024,#N/A Field Not Applicable,CALLABLE,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2024,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.25,11/15/2024,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,7.5,11/15/2024,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,2.48,11/15/2024,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FNNT,8.43,11/18/2024,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FMCNT,0,1/4/2025,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,8.28,1/10/2025,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.25,1/15/2025,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,2.375,1/15/2025,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,2/7/2025,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,7.93,2/14/2025,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2,2/15/2025,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,7.625,2/15/2025,#N/A Field Not Applicable,NORMAL,USD,US
+Lower Brule Sioux Tribe,LWB,5.875,3/1/2025,C,CALL/SINK,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2025,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.125,5/15/2025,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,2.51,5/15/2025,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,2.5,5/15/2025,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FNNT,6.86,6/13/2025,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,7.02,6/23/2025,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.375,7/15/2025,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,3.01,8/1/2025,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,2.95,8/1/2025,A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,4.13,8/1/2025,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.74,8/1/2025,0619,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.3,8/1/2025,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Treasury Note/Bond,T,2,8/15/2025,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,6.875,8/15/2025,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FFCB,6.89,9/12/2025,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMS,0,9/15/2025,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,9/23/2025,#N/A Field Not Applicable,NORMAL,USD,US
+Oglala Sioux Tribe,OGLFAC,5.75,10/1/2025,#N/A Field Not Applicable,CALLABLE,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2025,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,TVA,6.75,11/1/2025,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.25,11/15/2025,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,0,12/11/2025,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FMCNT,0,1/4/2026,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.625,1/15/2026,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,2,1/15/2026,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,2/7/2026,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,6,2/15/2026,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMAP,0,3/23/2026,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2026,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,7.125,4/30/2026,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,7.19,5/29/2026,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMAP,0,5/29/2026,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,8.25,6/1/2026,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHNT,7.26,6/4/2026,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHNT,7.33,7/15/2026,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,7.27,7/27/2026,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,3.09,8/1/2026,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.77,8/1/2026,0620,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.1,8/1/2026,A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.34,8/1/2026,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,4.21,8/1/2026,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Treasury Note/Bond,T,6.75,8/15/2026,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,2.29,9/15/2026,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FNNT,0,9/23/2026,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2026,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,6.5,11/15/2026,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,2.04,12/15/2026,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FMCNT,0,1/4/2027,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,2.375,1/15/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,2/7/2027,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,6.625,2/15/2027,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,4.44,2/27/2027,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FNMA,0,3/23/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,4/8/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,7/15/2027,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,5.38,8/1/2027,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.1,8/1/2027,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,4.28,8/1/2027,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.15,8/1/2027,A,CALLABLE,USD,US
+United States Treasury Note/Bond,T,6.375,8/15/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,9/23/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,6.09,9/27/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMAP,0,10/8/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,10/8/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,6.03,10/8/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,5.98,11/12/2027,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,6.125,11/15/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,5.875,11/22/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,5.83,11/26/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,6.32,12/20/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,5.72,12/30/2027,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,6.13,1/12/2028,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,1.75,1/15/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,1/15/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,6,1/21/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,6.15,1/28/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,5.65,2/22/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,0,3/23/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,6.12,3/23/2028,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,3.625,4/15/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,5.625,4/17/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,7/15/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,6.005,7/28/2028,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,3.21,8/1/2028,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.25,8/1/2028,A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,5.42,8/1/2028,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,4.35,8/1/2028,#N/A Field Not Applicable,CALLABLE,USD,US
+#N/A Field Not Applicable,FNMA,0,8/7/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,6.16,8/7/2028,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,5.5,8/15/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,6.08,9/1/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNNT,5.96,9/11/2028,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,5.25,11/15/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,0,11/15/2028,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FCNT,5.75,12/7/2028,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,2.5,1/15/2029,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,1/15/2029,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,5.25,2/15/2029,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,3.875,4/15/2029,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,6.25,5/15/2029,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,7/15/2029,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,3.26,8/1/2029,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,4.41,8/1/2029,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.35,8/1/2029,A,CALLABLE,USD,US
+United States Treasury Note/Bond,T,6.125,8/15/2029,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,6.75,9/15/2029,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,3.28,9/15/2029,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,2.74,9/15/2029,*,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,3.22,9/15/2029,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,2.74,9/15/2029,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FHLMC,0,12/14/2029,#N/A Field Not Applicable,NORMAL,USD,US
+South Texas Military Housing LP,STEXMH,7.35,12/15/2029,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FMCNT,0,12/17/2029,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,3.49,12/20/2029,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FNMAP,0,1/15/2030,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,7.125,1/15/2030,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,0,1/15/2030,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,RFCO,8.625,1/15/2030,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,7.125,2/15/2030,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,2.61,4/15/2030,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,RFCO,8.875,4/15/2030,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,TVA,7.125,5/1/2030,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FFCB,7.35,5/8/2030,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,6.25,5/15/2030,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,4.14,5/15/2030,2,SINKABLE,USD,US
+#N/A Field Not Applicable,FNMA,7.25,5/15/2030,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMAP,0,5/15/2030,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,3.43,5/15/2030,5,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,2.93,5/15/2030,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,4.01,5/15/2030,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,3.04,5/15/2030,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,3.54,6/15/2030,II-3,SINKABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.36,8/1/2030,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.5,8/1/2030,A,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,4.48,8/1/2030,#N/A Field Not Applicable,CALLABLE,USD,US
+#N/A Field Not Applicable,FFCB,6.9,9/12/2030,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,2.31,11/15/2030,#N/A Field Not Applicable,SINKABLE,USD,US
+#N/A Field Not Applicable,FNMA,6.625,11/15/2030,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,3.37,12/15/2030,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,3.59,12/15/2030,I-2,SINKABLE,USD,US
+United States Treasury Note/Bond,T,5.375,2/15/2031,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,6.75,3/15/2031,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,0,3/15/2031,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FFCB,6.75,6/6/2031,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,3.46,8/1/2031,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.55,8/1/2031,A,CALLABLE,USD,US
+Lower Brule Sioux Tribe,LWB,6,3/1/2032,C,CALL/SINK,USD,US
+United States Treasury Inflation Indexed Bonds,TII,3.375,4/15/2032,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,6.25,7/15/2032,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLMC,0,7/15/2032,#N/A Field Not Applicable,NORMAL,USD,US
+United States Department of Housing and Urban Development,HUD,3.6,8/1/2032,A,CALLABLE,USD,US
+#N/A Field Not Applicable,FHLMC,0,9/15/2032,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,3.82,12/20/2032,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,3.938,12/20/2032,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,3.33,5/15/2033,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,3.43,6/1/2033,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,3.82,6/1/2033,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,3.16,6/1/2033,_,SINKABLE,USD,US
+#N/A Field Not Applicable,TVA,4.7,7/15/2033,#N/A Field Not Applicable,NORMAL,USD,US
+Overseas Private Investment Corp,OPIC,3.25,7/31/2033,#N/A Field Not Applicable,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,2.94,7/31/2033,#N/A Field Not Applicable,SINKABLE,USD,US
+United States Department of Housing and Urban Development,HUD,3.65,8/1/2033,A,CALLABLE,USD,US
+Overseas Private Investment Corp,OPIC,3.79,6/15/2034,9,SINKABLE,USD,US
+Overseas Private Investment Corp,OPIC,3.7,6/15/2034,2,SINK/PUT,USD,US
+United States Department of Housing and Urban Development,HUD,3.7,8/1/2034,A,CALLABLE,USD,US
+South Texas Military Housing LP,STEXMH,7.37,12/15/2034,#N/A Field Not Applicable,SINKABLE,USD,US
+United States Treasury Note/Bond,T,4.5,2/15/2036,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,5.125,3/14/2036,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,5.625,3/14/2036,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,TVA,5.98,4/1/2036,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FHLB,5.5,7/15/2036,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.75,2/15/2037,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,5,5/15/2037,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,TVA,6.15,1/15/2038,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.375,2/15/2038,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.5,5/15/2038,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,FNMA,6.21,8/6/2038,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.5,2/15/2039,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.25,5/15/2039,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.5,8/15/2039,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.375,11/15/2039,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,2.125,2/15/2040,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.625,2/15/2040,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.375,5/15/2040,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.875,8/15/2040,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.25,11/15/2040,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,2.125,2/15/2041,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.75,2/15/2041,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,4.375,5/15/2041,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.75,8/15/2041,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.125,11/15/2041,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.75,2/15/2042,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.125,2/15/2042,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3,5/15/2042,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.75,8/15/2042,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.75,11/15/2042,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.625,2/15/2043,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.125,2/15/2043,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.875,5/15/2043,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.625,8/15/2043,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.75,11/15/2043,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,1.375,2/15/2044,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.625,2/15/2044,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.375,5/15/2044,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3.125,8/15/2044,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3,11/15/2044,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Inflation Indexed Bonds,TII,0.75,2/15/2045,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,2.5,2/15/2045,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3,5/15/2045,#N/A Field Not Applicable,NORMAL,USD,US
+#N/A Field Not Applicable,TVA,6.235,7/15/2045,#N/A Field Not Applicable,CALLABLE,USD,US
+United States Treasury Note/Bond,T,2.875,8/15/2045,#N/A Field Not Applicable,NORMAL,USD,US
+United States Treasury Note/Bond,T,3,11/15/2045,#N/A Field Not Applicable,NORMAL,USD,US

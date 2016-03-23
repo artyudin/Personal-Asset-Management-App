@@ -1,0 +1,24 @@
+<script id="update_template" type="x-tmpl-mustache">
+    
+           <h3>update this profile:</h3>
+
+            <div  class="list-group-item">
+                {% verbatim %}
+                    <form id="update_form" 
+                        action="/portfolio/update/{{portfolio.id}}" 
+                        method="post"
+                            >
+                {% endverbatim %}
+                        {% csrf_token %}
+                        {% verbatim %}
+                            <p>Edit portfolio_name
+                            <input type="text" name="portfolio_name" value="{{portfolio.portfolio_name}}">
+                            <input type="submit" value="Submit">
+
+                            </p>
+                        {% endverbatim %}
+                    </form>
+            </div>
+                
+
+</script>

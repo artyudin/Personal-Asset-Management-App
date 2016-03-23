@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en">
+<head>
+    <title>Analysis on portfolio</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+</head>
+<body>
+	<h1>Analyse on portfolio: {{model.portfolio.portfolio_name}} </h1>
+	
+	<table class="table table-striped">
+		<th>
+							<td>    Total value</td>
+                            <td>    weight</td>
+                            <td>    Quantity</td>
+                            <td>    cost_basis</td>
+                            <td>    Asset Type  </td>
+                            
+                            <td>    Symbol </td>
+                            <td>    beta </td>
+                            <td>    alpha </td>
+                            <td>    r_squared</td>
+                           
+		</th>
+		{% for res in model.response %}
+				<tr>
+							<td>    {{res.id}}</td>
+                            <td>    ${{res.value}}</td>
+                            <td>    % {{res.weight}}</td>
+                            <td>    {{res.quantity}}</td>
+                            <td>    ${{res.cost_basis}}</td>
+                            <td>    {{res.content_type}}  </td>
+                            
+                            <td>    {{res.content_object.symbol}} </td>
+                            <td>    {{res.analysis.beta}}  </td>
+                            <td>    {{res.analysis.alpha}} </td>
+                            <td>    {{res.analysis.r_squared}}</td>
+                            
+
+				</tr>
+		{% endfor %}
+  				<tr class="info">
+  							<td>     {{model.portfolio.portfolio_name}} </td>
+  							<td>   Total Value: $  {{model.total.portfolio_value}}  </td>
+  							<td>    Beta: {{model.total.beta}}  </td>
+                            <td>    Alpha: {{model.total.alpha}} </td>
+                            <td>    R Squared: {{model.total.r_squared}} </td>
+                            <td>    Stock Value: % {{model.total.stock_value}}  </td>
+                            <td>    Bond Value: % {{model.total.bond_value}} </td>
+                            <td>    ETF Value: % {{model.total.etf_value}} </td>
+                   
+                </tr>
+    </table>
+        <input id="stock_value" value="{{model.total.stock_value}}" hidden>
+        <input id="bond_value" value="{{model.total.bond_value}}" hidden>
+        <input id="etf_value" value="{{model.total.etf_value}}" hidden>
+        <center ><div id="chart"></div></center>
+
+
+
+       
+  					 		
+                   
+  	
+
+
+		<h1>Analyse on portfolio: {{owen.portfolio.portfolio_name}} </h1>
+	
+	<table class="table table-striped">
+		<th>
+							<td>    Total value</td>
+                            <td>    weight</td>
+                            <td>    Quantity</td>
+                            <td>    cost_basis</td>
+                            <td>    Asset Type  </td>
+                            
+                            <td>    Symbol </td>
+                            <td>    beta </td>
+                            <td>    alpha </td>
+                            <td>    r_squared</td>
+                           
+		</th>
+		{% for res in owen.response %}
+				<tr>
+							<td>    {{res.id}}</td>
+                            <td>    ${{res.value}}</td>
+                            <td>    % {{res.weight}}</td>
+                            <td>    {{res.quantity}}</td>
+                            <td>    ${{res.cost_basis}}</td>
+                            <td>    {{res.content_type}}  </td>
+                            
+                            <td>    {{res.content_object.symbol}} </td>
+                            <td>    {{res.analysis.beta}}  </td>
+                            <td>    {{res.analysis.alpha}} </td>
+                            <td>    {{res.analysis.r_squared}}</td>
+                            
+
+				</tr>
+		{% endfor %}
+  				<tr class="info">
+  							<td>     {{owen.portfolio.portfolio_name}} </td>
+  							<td>   Total Value: $  {{owen.total.portfolio_value}}  </td>
+  							<td>    Beta: {{owen.total.beta}}  </td>
+                            <td>    Alpha: {{owen.total.alpha}} </td>
+                            <td>    R Squared: {{owen.total.r_squared}} </td>
+                            <td>    Stock Value: % {{owen.total.stock_value}}  </td>
+                            <td>    Bond Value: % {{owen.total.bond_value}} </td>
+                            <td>    ETF Value: % {{owen.total.etf_value}} </td>
+                   
+                </tr>
+    </table>
+        <input id="owen_stock_value" value="{{owen.total.stock_value}}" hidden>
+        <input id="owen_bond_value" value="{{owen.total.bond_value}}" hidden>
+        <input id="owen_etf_value" value="{{owen.total.etf_value}}" hidden>
+  					 		
+                  <center ><div id="chart2"></div></center>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.4/d3.min.js"></script>
+        <script src="d3pie.min.js"></script>
+        <script src="{% static 'analysis/compare.js' %}" type="application/javascript"></script>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+</body>
+</html>
